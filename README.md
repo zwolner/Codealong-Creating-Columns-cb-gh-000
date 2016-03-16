@@ -1,4 +1,4 @@
-# Code Along Exercise 4
+# CSS Columns Along Exercise
 
 ## Overview
 
@@ -17,4 +17,5 @@ In this code along exercise we will add column structure to our page layouts.
 
 After you finish, make sure you <a href="https://www.mozilla.org/en-US/firefox/new/" target="_blank">install Firefox</a> if you haven't already as it is required for the screenshot tests to run. Then, type `learn` command from Terminal to run local tests.
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/fe-code-along-4' title='Code Along Exercise 4'>Code Along Exercise 4</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/Codealong-Creating-Columns' title='Codealong Creating Columns'>Codealong Creating Columns</a> on Learn.co and start learning to code for free.</p>
+
